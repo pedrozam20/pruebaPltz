@@ -9,7 +9,11 @@ body{
 
 #cabecera
 {
+<<<<<<< HEAD
     background: rgb(36, 156, 120);
+=======
+    background: rgb(211, 49, 49);
+>>>>>>> cabecera
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.git 5);
     color: white;
     font-weight: bold;
